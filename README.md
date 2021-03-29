@@ -1,1 +1,5 @@
 ## FPVITALIA
+
+# OSD
+
+# SplashScreens
