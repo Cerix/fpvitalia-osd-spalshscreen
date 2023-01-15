@@ -1,5 +1,5 @@
 # FPVITALIA
-    Raccolta dei splascrens per le nostre radio
+    Raccolta dei splashscreens per le nostre radio
 # OSD
     Raccolta di font e splashscreen per Betaflight
 # SplashScreens
